@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hanjoo's GitHub
 
-<!--
-**hanjoo7/hanjoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Hanjoo's+GitHub)
 
-Here are some ideas to get you started:
+## 🌟 Welcome to My Repository!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+Hello! I'm Hanjoo, a passionate developer. Explore my projects and feel free to contribute or reach out.
+
+---
+
+### 🔧 Tools & Technologies
+- **Languages**: Python, JavaScript, SQL
+- **Frameworks**: React, Django
+- **Other Tools**: Git, Docker
+
+---
+
+### 🚀 Featured Projects
+- [Project 1](https://github.com/your_username/project1): A brief description of Project 1.
+- [Project 2](https://github.com/your_username/project2): A brief description of Project 2.
+
+---
+
+### 💬 Contact Me
+- 📧 Email: your_email@example.com
+- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
