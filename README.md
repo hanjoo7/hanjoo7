@@ -1,6 +1,6 @@
 # Hanjoo's GitHub
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Hanjoo's+GitHub)
+![Banner](https://via.placeholder.com/1200x300.png/FFC0CB/ADD8E6?text=Welcome+to+Hanjoo's+GitHub)
 
 ## 🌟 Welcome to My Repository!
 
