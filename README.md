@@ -5,23 +5,18 @@
 ## 🌟 Welcome to My Repository!
 
 ### About Me
-Hello! I'm Hanjoo, a passionate developer. Explore my projects and feel free to contribute or reach out.
 
 ---
 
 ### 🔧 Tools & Technologies
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks**: React, Django
-- **Other Tools**: Git, Docker
+- **Languages**: Python, MSSQL
+- **Frameworks**: Pytorch, Tensorflow, pandas, numpy, streamlit
+- **Other Tools**: Git
 
 ---
 
 ### 🚀 Featured Projects
-- [Project 1](https://github.com/your_username/project1): A brief description of Project 1.
-- [Project 2](https://github.com/your_username/project2): A brief description of Project 2.
-
----
 
 ### 💬 Contact Me
-- 📧 Email: your_email@example.com
-- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- 📧 Email: jeffrey7108@gmail.com
+
