@@ -1,6 +1,6 @@
 # Hanjoo's GitHub
 
-![Banner](https://via.placeholder.com/1200x300.png/FFC0CB/ADD8E6?text=Welcome+to+Hanjoo's+GitHub)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome+to+Hanjoo's+GitHub%20render&fontSize=90)
 
 ## 🌟 Welcome to My Repository!
 
