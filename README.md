@@ -8,10 +8,11 @@
 
 ---
 
-### 🔧 Tools & Technologies
-- **Languages**: Python, MSSQL
-- **Frameworks**: Pytorch, Tensorflow, pandas, numpy, streamlit
-- **Other Tools**: Git
+### 🔧 Skills
+- **Machine learning & Deep learning**
+- **Python**: Pytorch, Tensforflow, ScikitLearn, Streamlit, Pandas, Numpy,
+- **Backend**: MSSQL
+- **Other Tools**: Git, GCP, AWS
 
 ---
 
